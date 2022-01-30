@@ -1,0 +1,7 @@
+D:\Study\API\BasicAuth\BasicAuth\obj\Debug\net5.0\BasicAuth.csproj.AssemblyReference.cache
+D:\Study\API\BasicAuth\BasicAuth\obj\Debug\net5.0\BasicAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\API\BasicAuth\BasicAuth\obj\Debug\net5.0\BasicAuth.AssemblyInfoInputs.cache
+D:\Study\API\BasicAuth\BasicAuth\obj\Debug\net5.0\BasicAuth.AssemblyInfo.cs
+D:\Study\API\BasicAuth\BasicAuth\obj\Debug\net5.0\BasicAuth.csproj.CoreCompileInputs.cache
+D:\Study\API\BasicAuth\BasicAuth\obj\Debug\net5.0\BasicAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\API\BasicAuth\BasicAuth\obj\Debug\net5.0\BasicAuth.MvcApplicationPartsAssemblyInfo.cache
